@@ -10,5 +10,5 @@
         src="http://img.shields.io/badge/-velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@shinwonse"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-[![wonse's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinwonse)](https://github.com/anuraghazra/github-readme-stats)
 
+![Wonse's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinwonse&show_icons=true&theme=dracula)
