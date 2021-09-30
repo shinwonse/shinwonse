@@ -1,4 +1,4 @@
-## It's wonse 🙋‍♂️
+## This is wonse 🙋‍♂️
 
 <a href="https://www.instagram.com//">
     <img 
