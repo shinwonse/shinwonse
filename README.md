@@ -13,4 +13,4 @@
 
 ![Wonse's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinwonse&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinwonse&layout=compact&theme=dracula&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinwonse&layout=compact&theme=dracula&langs_count=5&hide=html)](https://github.com/anuraghazra/github-readme-stats)
