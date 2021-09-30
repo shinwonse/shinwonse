@@ -7,6 +7,6 @@
 </a>
 <a href="https://velog.io/@shinwonse">
     <img 
-        src="http://img.shields.io/badge/-velog-222222?style=flat&logo=velog&link=https://velog.io/@shinwonse"
+        src="http://img.shields.io/badge/-velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@shinwonse"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
