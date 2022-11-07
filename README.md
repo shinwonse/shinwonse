@@ -1,4 +1,8 @@
-![npx-wonse](https://user-images.githubusercontent.com/17924127/87273805-0cec0180-c515-11ea-8cfd-7ae258134dcf.png)
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&pause=1000&color=B296F7&background=060C0B00&center=true&vCenter=true&width=435&lines=Hi%2C+I+'m+FE+Dev+Wonse" alt="Typing SVG" /></a>
+ </p>
+ 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
