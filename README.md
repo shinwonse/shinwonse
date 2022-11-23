@@ -25,4 +25,4 @@
 
 # Studying
 
-<a href="https://github.com/shinwonse/react-without-cra">웹팩으로 리액트 프로젝트 세팅하기</a>  
+[CRA 없이 리액트 프로젝트 세팅하기 - 웹팩](https://github.com/shinwonse/react-without-cra)
