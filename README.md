@@ -22,3 +22,8 @@
   <a href="mailto:sinwonse@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
+
+<div align="center">
+ <h2>Studying</h2>
+ <a href="https://github.com/shinwonse/react-without-cra">웹팩으로 리액트 프로젝트 세팅하기</a>  
+</div>
