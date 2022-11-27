@@ -25,4 +25,5 @@
 
 # Studying
 
-[CRA 없이 리액트 프로젝트 세팅하기 - 웹팩](https://github.com/shinwonse/react-without-cra)
+- [CRA 없이 리액트 프로젝트 세팅하기 - 웹팩](https://github.com/shinwonse/react-without-cra)
+- [Vanilla JS로 웹 컴포넌트 만들기](https://github.com/shinwonse/web-component-practice)
