@@ -29,3 +29,7 @@
   <a href="mailto:sinwonse@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
+
+## Article
+### React
+- [useEffect의 dependency는 이전의 dependency와 어떻게 비교할까?](https://wonse.dev/entry/useEffect%EC%9D%98-dependency%EB%8A%94-%EC%9D%B4%EC%A0%84%EC%9D%98-dependency%EC%99%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B9%84%EA%B5%90%ED%95%A0%EA%B9%8C)
