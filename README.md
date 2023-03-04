@@ -1,6 +1,8 @@
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=30&pause=1000&color=B296F7&background=060C0B00&center=true&vCenter=true&width=435&lines=Hi%2C+I+'m+FE+Dev+Wonse" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=30&pause=1000&color=B296F7&background=060C0B00&center=true&vCenter=true&width=435&lines=Hi%2C+I+'m+FE+Dev+Wonse" alt="Typing SVG" />
+  </a>
  </p>
  
 
@@ -30,7 +32,15 @@
 </p>
 <br>
 
-## Article
-### React
+## Side Projects
+### 하루그린
+- [서비스 링크](https://harugreen.vercel.app/)
+- [깃허브 링크](https://github.com/haru-green/haru-green-client)
+
+### Real-Todolist
+- [서비스 링크](https://real-todolist.vercel.app/)
+- [깃허브 링크](https://github.com/shinwonse/real-todolist)
+
+## Recent Article
 - [state는 리액트가 찍어둔 스냅샷이다.](https://wonse.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-state%EB%8A%94-%EC%8A%A4%EB%83%85%EC%83%B7%EC%9D%B4%EB%8B%A4)
 - [useEffect의 dependency는 이전의 dependency와 어떻게 비교할까?](https://wonse.dev/entry/useEffect%EC%9D%98-dependency%EB%8A%94-%EC%9D%B4%EC%A0%84%EC%9D%98-dependency%EC%99%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B9%84%EA%B5%90%ED%95%A0%EA%B9%8C)
