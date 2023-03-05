@@ -33,12 +33,18 @@
 <br>
 
 ## Side Projects
+### 술로그 (진행중) <sub>[서비스 링크]() | [깃허브 링크](https://github.com/sullog-official/sullog-client)</sub>
+전통주를 기록하다
+
 ### 하루그린 <sub>[서비스 링크](https://harugreen.vercel.app/) | [깃허브 링크](https://github.com/haru-green/haru-green-client)</sub>
 오늘 하루도 환경에 한 발짝 더 가까이 가보세요
 
 
 ### Real-Todolist <sub>[서비스 링크](https://real-todolist.vercel.app/) | [깃허브 링크](https://github.com/shinwonse/real-todolist)</sub>
 바닐라 타입스크립트로 개발한 리얼 투두리스트
+
+### BB-PSP <sub>[서비스 링크](https://bb-psp.vercel.app/) | [깃허브 링크](https://github.com/BB-PSP/BB-PSP-client)</sub>
+머신러닝으로 예측하는 KBO 선수들의 
 
 ## Recent Article
 - [state는 리액트가 찍어둔 스냅샷이다.](https://wonse.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-state%EB%8A%94-%EC%8A%A4%EB%83%85%EC%83%B7%EC%9D%B4%EB%8B%A4)
