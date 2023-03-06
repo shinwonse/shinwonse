@@ -32,6 +32,12 @@
 </p>
 <br>
 
+## Careers
+
+**ktown4u** <sub><sup>프론트엔드 개발팀 (2023.03 ~ )</sup></sub><br/>
+**건국대학교** <sub><sup>컴퓨터공학부 전공(2017.03 ~ 2023.08)</sup></sub>
+
+
 ## Side Projects
 ### 술로그 (진행중) <sub>[서비스 링크]() | [깃허브 링크](https://github.com/sullog-official/sullog-client)</sub>
 전통주를 기록하다
