@@ -51,7 +51,3 @@
 
 **BB-PSP** <sub><sup>[서비스 링크](https://bb-psp.vercel.app/) | [깃허브 링크](https://github.com/BB-PSP/BB-PSP-client)</sup></sub><br/>
 머신러닝으로 예측하는 KBO 선수들의 성적
-
-## Recent Article
-- [state는 리액트가 찍어둔 스냅샷이다.](https://wonse.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-state%EB%8A%94-%EC%8A%A4%EB%83%85%EC%83%B7%EC%9D%B4%EB%8B%A4)
-- [useEffect의 dependency는 이전의 dependency와 어떻게 비교할까?](https://wonse.dev/entry/useEffect%EC%9D%98-dependency%EB%8A%94-%EC%9D%B4%EC%A0%84%EC%9D%98-dependency%EC%99%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B9%84%EA%B5%90%ED%95%A0%EA%B9%8C)
