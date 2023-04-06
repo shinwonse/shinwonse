@@ -39,7 +39,7 @@
 
 
 ## Side Projects
-**술로그 (진행중)** <sub><sup>[서비스 링크]() | [깃허브 링크](https://github.com/sullog-official/sullog-client)</sup></sub><br/>
+**술로그 (진행중)** <sub><sup>[서비스 링크](https://sullog-client.vercel.app/) | [깃허브 링크](https://github.com/sullog-official/sullog-client)</sup></sub><br/>
 전통주를 기록하다
 
 **하루그린** <sub><sup>[서비스 링크](https://harugreen.vercel.app/) | [깃허브 링크](https://github.com/haru-green/haru-green-client)</sup></sub><br/>
