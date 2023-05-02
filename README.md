@@ -27,8 +27,9 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://www.instagram.com/s._.wonse/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
-  <a href="mailto:sinwonse@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="https://www.instagram.com/s._.wonse/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
+  <a href="mailto:sinwonse@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sinwonse@gmail.com"/></a>
+ <a href="https://www.linkedin.com/in/%EC%9B%90%EC%84%B8-%EC%8B%A0-24a949239/"><img src="https://img.shields.io/badge/Linkedin-1877F2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9B%90%EC%84%B8-%EC%8B%A0-24a949239/"/></a>
 </p>
 <br>
 
