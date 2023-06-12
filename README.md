@@ -42,7 +42,7 @@
 **술로그 (진행중)** <sub><sup>[서비스 링크](https://sullog-client.vercel.app/) | [깃허브 링크](https://github.com/sullog-official/sullog-client)</sup></sub><br/>
 전통주를 기록하다
 
-**하루그린** <sub><sup>[서비스 링크](https://harugreen.vercel.app/) | [깃허브 링크](https://github.com/haru-green/haru-green-client)</sup></sub><br/>
+**하루그린 (재개발중)** <sub><sup>[서비스 링크](https://harugreen.vercel.app/) | [깃허브 링크](https://github.com/haru-green/haru-green-client)</sup></sub><br/>
 오늘 하루도 환경에 한 발짝 더 가까이 가보세요
 
 
