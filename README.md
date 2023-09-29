@@ -5,6 +5,9 @@
 
 
 ## Side Projects
+**블로그 (개발중)** <sub><sup>[서비스 링크](https://wonse.dev) | [깃허브 링크](https://github.com/shinwonse/blog)</sup></sub><br/>
+개인 블로그
+
 **술로그** <sub><sup>[서비스 링크](https://sullog-client.vercel.app/) | [깃허브 링크](https://github.com/sullog-official/sullog-client)</sup></sub><br/>
 전통주를 기록하다
 
