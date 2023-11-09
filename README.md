@@ -5,8 +5,6 @@
 
 
 ## Side Projects
-**Washing Money (개발중)** <sub><sup>[깃허브 링크(private)](https://github.com/washing-kim)</sup></sub><br/>
-암호화폐 자동 트레이딩 서비스
 
 **블로그 (개발중)** <sub><sup>[서비스 링크](https://wonse.dev) | [깃허브 링크](https://github.com/shinwonse/blog)</sup></sub><br/>
 개인 블로그
