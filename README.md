@@ -1,6 +1,6 @@
 ## Careers
 
-**ktown4u** <sub><sup>프론트엔드 개발팀 (2023.03 ~ )</sup></sub><br/>
+**Ktown4u** <sub><sup>프론트엔드 개발팀 (2023.03 ~ )</sup></sub><br/>
 **건국대학교** <sub><sup>컴퓨터공학부 전공(2017.03 ~ 2023.08)</sup></sub>
 
 
