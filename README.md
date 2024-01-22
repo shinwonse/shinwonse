@@ -6,7 +6,10 @@
 
 ## Side Projects
 
-**블로그** <sub><sup>[서비스 링크](https://wonse.dev) | [깃허브 링크](https://github.com/shinwonse/blog)</sup></sub><br/>
+**개인 기술 블로그** <sub><sup>[서비스 링크](https://numugas.vercel.app) | [깃허브 링크](https://github.com/shinwonse/numugas)</sup></sub><br/>
+사회인야구팀 담장너머가쓰 웹페이지
+
+**개인 기술 블로그** <sub><sup>[서비스 링크](https://wonse.dev) | [깃허브 링크](https://github.com/shinwonse/blog)</sup></sub><br/>
 개인 블로그
 
 **술로그** <sub><sup>[서비스 링크](https://sullog-client.vercel.app/) | [깃허브 링크](https://github.com/sullog-official/sullog-client)</sup></sub><br/>
