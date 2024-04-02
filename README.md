@@ -1,3 +1,6 @@
+## Resume
+[이력서-신원세.pdf](https://github.com/shinwonse/shinwonse/files/14837205/-.pdf)
+
 ## Careers
 
 **Ktown4u** <sub><sup>프론트엔드 개발팀 (2023.03 ~ )</sup></sub><br/>
