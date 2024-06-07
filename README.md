@@ -17,3 +17,11 @@
 
 **술로그** <sub><sup>[서비스 링크](https://sullog-client.vercel.app/) | [깃허브 링크](https://github.com/sullog-official/sullog-client)</sup></sub><br/>
 전통주를 기록하다
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/shinwonse"
+  width="600"
+  height="300"
+/>
+</a>
