@@ -12,7 +12,7 @@
 **개인 기술 블로그** <sub><sup>[서비스 링크](https://wonse.dev) | [깃허브 링크](https://github.com/shinwonse/blog)</sup></sub><br/>
 개인 블로그
 
-**KUFE** <sub><sup>[서비스 링크](kufe-web.vercel.app) | [깃허브 링크](https://github.com/kufe/kufe-web)</sup></sub><br/>
+**KUFE** <sub><sup>[서비스 링크](kufe-web.vercel.app) | [깃허브 링크](https://github.com/ku-fe/kufe-web)</sup></sub><br/>
 건국대학교 프론트엔드 개발자 커뮤니티
 
 **술로그** <sub><sup>[서비스 링크](https://sullog-client.vercel.app/) | [깃허브 링크](https://github.com/sullog-official/sullog-client)</sup></sub><br/>
