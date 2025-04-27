@@ -5,7 +5,7 @@
 
 ## Activities
 
-**글또 10기** <sub><sup>Technical Writer (2024.09 ~ )</sup></sub><br/>
+**글또 10기** <sub><sup>Technical Writer (2024.09 ~ 2025.03)</sup></sub><br/>
 
 ## Side Projects
 
